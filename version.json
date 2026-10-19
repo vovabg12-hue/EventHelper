@@ -1,1 +1,11 @@
-1.41.51
+{
+  "version": "1.41.51",
+  "author": "Vladimir_Harrison",
+  "url": "https://raw.githubusercontent.com/vovabg12-hue/EventHelper/main/EventHelper.luac",
+  "changelog": [
+    "Добавлен новый функционал для управления мероприятиями",
+    "Улучшен интерфейс окна",
+    "Исправлены ошибки и недочеты",
+    "Оптимизация работы скрипта"
+  ]
+}
