@@ -1,8 +1,9 @@
 {
-  "version": "1.41.55",
+  "version": "1.41.56",
   "author": "Vladimir_Harrison",
   "url": "https://raw.githubusercontent.com/vovabg12-hue/EventHelper/main/EventHelper.luac",
   "changelog": [
-    "Исправлены ошибки при отправке данных на сервер"
+    "Исправлена критическая ошибка при отправке данных через команду /restoremp, из-за которой сервер возвращал ошибку HTTP 400",
+    "При возникновении ошибок при отправке данных на сервер, например: host or service not provided, or not known, обращайтесь напрямую к разработчику!"
   ]
 }
